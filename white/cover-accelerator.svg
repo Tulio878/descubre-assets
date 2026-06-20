@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 400" width="320" height="400" role="img" aria-label="Social Selling Accelerator ebook cover">
+  <defs>
+    <linearGradient id="ca" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7b4dff"/><stop offset="1" stop-color="#0b3d91"/>
+    </linearGradient>
+    <linearGradient id="cash" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#000" stop-opacity=".28"/><stop offset="1" stop-color="#000" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <ellipse cx="170" cy="384" rx="120" ry="12" fill="#000" opacity=".16"/>
+  <rect x="60" y="26" width="208" height="350" rx="6" fill="#e9edef"/>
+  <rect x="58" y="22" width="208" height="350" rx="6" fill="#f4f6f7"/>
+  <rect x="48" y="16" width="212" height="358" rx="8" fill="url(#ca)"/>
+  <rect x="48" y="16" width="26" height="358" rx="8" fill="url(#cash)"/>
+  <!-- app flow glyphs -->
+  <g transform="translate(154,72)" text-anchor="middle" font-family="Arial,Helvetica,sans-serif">
+    <circle cx="-34" cy="0" r="20" fill="#fff" opacity=".16"/><text x="-34" y="7" font-size="20">📸</text>
+    <text x="0" y="6" fill="#fff" font-size="18" font-weight="800">→</text>
+    <circle cx="34" cy="0" r="20" fill="#fff" opacity=".16"/><text x="34" y="7" font-size="20">💬</text>
+  </g>
+  <text x="154" y="120" text-anchor="middle" fill="#dfe6ff" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700" letter-spacing="2">THE ADD-ON</text>
+  <text x="154" y="180" text-anchor="middle" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="800">Social</text>
+  <text x="154" y="216" text-anchor="middle" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="800">Selling</text>
+  <text x="154" y="252" text-anchor="middle" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="800">Accelerator</text>
+  <rect x="118" y="272" width="72" height="3" rx="1.5" fill="#dfe6ff"/>
+  <text x="154" y="300" text-anchor="middle" fill="#eef1ff" font-family="Arial,Helvetica,sans-serif" font-size="11">Instagram and Facebook to WhatsApp</text>
+  <text x="154" y="352" text-anchor="middle" fill="#cdd6ff" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700">by Léo Martins</text>
+</svg>
